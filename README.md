@@ -20,6 +20,8 @@
 - **Github** | [**https://github.com/hannachoi24**](https://github.com/hannachoi24)
 - **Blog** | [**https://dearna.tistory.com/**](https://dearna.tistory.com/)
 
+<br>
+
 ## ⚙️ Skills
 
 
@@ -40,51 +42,58 @@
 - IntelliJ, VS Code
 - Slack
 
+<br>
 
 ## 💻 Personal Experience & Projects
 
 
 
 ### 교내 웹/앱 서비스 개발 경진대회 참가 | Java, SpringBoot, JPA, AWS
-
 [https://github.com/hannachoi24/SalguMarket](https://github.com/hannachoi24/SalguMarket)
 
 2021.10~2021.12
 
 - 탄소중립 이슈를 바탕으로  편의점 및 식당 등에서 폐기 예정인 식자재, 공장에서의 폐자재들을 개인과 상점간 거래하는 웹 서비스 개발
-    - 두 달여간 Spring Boot를 이용하여 백엔드 개발에 참여
-    - 데이터베이스 설계 및 로그인/회원가입 기능, 예약 기능, 게시판 기능을 구현
+    - 3개월 동안 Spring Boot를 이용하여 백엔드 기능 개발에 참여
+    - 데이터베이스 설계, 로그인/회원가입 기능, 예약 기능, 게시판 기능을 구현
     
 
-### 제5회 정부혁신제안 끝장개발대회 참가 | Java, SpringBoot, JPA
+### 학교 주변 맛집 랜덤 추천 서비스  | React, Node.js, Mysql, AWS
+[https://github.com/hannachoi24/Web_TermProject](https://github.com/hannachoi24/Web_TermProject)
 
+2020.09~2020.12
+
+- 학교 주변 맛집 랜덤 추천 서비스
+  - 3개월 동안 React, Node.js, Mysql, AWS를 이용하여 백엔드 기능 개발에 참여
+  - 데이터베이스 설계, 고객 요구사항 분석, 랜덤 추천 로직, 로그인/회원가입 기능, 즐겨 찾기 기능
+
+
+### WeTube | Node.js, MongoDB, AWS
+[https://github.com/hannachoi24/wetube](https://github.com/hannachoi24/wetube)
+
+2020.04~2020.08
+- Node.js, MongoDB, AWS를 활용한 동영상 플랫폼(유튜브) 개발
+
+
+### Dandy | Python, Django, Mysql, AWS
+[https://github.com/LikeLionSSU-Hackathon](https://github.com/LikeLionSSU-Hackathon)
+
+2021.06~2021.08
+- 중년층 남성 옷 추천 서비스 개발
+    - Python, Django, Mysql, AWS를 이용하여 백엔드 및 프론트엔드 개발에 참여
+    - 로그인/회원가입, 전반적인 UI/UX설계 및 페이지 구현 
+   
+
+### 제5회 정부혁신제안 끝장개발대회 참가 | Java, SpringBoot, JPA, Thymeleaf, HTML, CSS
 [https://github.com/hannachoi24/CampaignProject](https://github.com/hannachoi24/CampaignProject)
 
-2021.05
+2021.05~2021.06
 
 - 탄소 저감 활동 추천 서비스 개발
-    - 한달간  HTML, CSS, Thymeleaf이용하여 프론트엔드 개발에 참여
+    - HTML, CSS, Thymeleaf를 이용하여 프론트엔드 개발에 참여
     - 전반적인 UI/UX설계 및 페이지 구현
     
-
-### 그 외, 프로젝트 |
-
-- **Web_TermProject** **|**  학교 주변 맛집 랜덤 추천 서비스
     
-    [https://github.com/hannachoi24/Web_TermProject](https://github.com/hannachoi24/Web_TermProject)
-    
-    - React, Node.js, Mysql, AWS를 활용
-- **WeTube** **|** Node.js, MongoDB, AWS를 활용한 동영상 플랫폼 개발
-    
-    [https://github.com/hannachoi24/wetube](https://github.com/hannachoi24/wetube)
-    
-- **Dandy** **|** 중년층 남성 옷 추천 서비스 개발
-    
-    [https://github.com/LikeLionSSU-Hackathon](https://github.com/LikeLionSSU-Hackathon)
-    
-    - Python, Django, Mysql, AWS를 활용
-    
-
 ### 멋쟁이사자처럼 연합 개발 동아리 활동
 
 2021.03~2021.12
@@ -98,6 +107,7 @@
 - 멋쟁이사자처럼 대학 연합 해커톤(어흥올림픽)
 - 숭실대학교 멋쟁이사자처럼 9기 수료식
 
+<br>
 
 ## 👨🏻‍🎓 Education
 
@@ -108,13 +118,14 @@
 
 ### 숭실대학교/ AI융합학부
 
-2020.03 ~ 2022.08 - 편입학
+2020.03 ~ 2022.08 - 
 
 
 ### 숭의여자대학교/ 디지털미디어학과
 
 2016.03 ~ 2018.02 - 졸업
 
+<br>
 
 ## 🏅 Certificate
 
@@ -127,4 +138,4 @@
 
 ![Untitled 1](https://user-images.githubusercontent.com/66726731/233141282-062330c2-5ed3-4af8-8b8f-f1e57ecf3469.png)
 
-![MOS](https://user-images.githubusercontent.com/66726731/233156765-1f6df816-d65e-4be4-b061-3dd72c47391d.jpg)
+![MOS](https://user-images.githubusercontent.com/66726731/233157456-71a180e5-2102-431d-bf3a-f84d391617f4.jpg)
