@@ -68,7 +68,7 @@
   - 데이터베이스 설계, 고객 요구사항 분석, 랜덤 추천 로직, 로그인/회원가입 기능, 즐겨 찾기 기능
 
 
-### WeTube | Node.js, MongoDB, AWS
+### WeTube | Node.js, MongoDB, Vanilla.js(Pug Template), AWS
 [https://github.com/hannachoi24/wetube](https://github.com/hannachoi24/wetube)
 
 2020.04~2020.08
