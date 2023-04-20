@@ -35,12 +35,13 @@
 - **IDEA** | IntelliJ, Visual Studio Code
 - **SDK** | Java 11, Python3
 - **JDK** | Java 11
-- Git
 
 ### Tools & Collaboration
 
 - IntelliJ, VS Code
+- Git
 - Slack
+- Notion
 
 <br>
 
