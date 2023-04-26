@@ -30,9 +30,10 @@
 
 - **Language** | Java, Node.js, Python
 - **Framework** | Spring Boot, Spring Data JPA, JavaScript, Django
+- **DB** | MySQL, MongoDB, Oracle
 - **ORM** | JPA
 - **Build** | Gradle
-- **IDEA** | IntelliJ, Visual Studio Code
+- **IDEA** | IntelliJ, Visual Studio Code, Android Studio
 - **SDK** | Java 11, Python3
 - **JDK** | Java 11
 
