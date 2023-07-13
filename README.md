@@ -133,6 +133,7 @@
 
 - 교내 웹/앱 서비스 개발 경진대회 장려상
 - 교내 코딩 경진대회 장려상
+- SQLD 자격증
 - MOS Excel 2010 Expert
 - MOS PowerPoint 2010
 
