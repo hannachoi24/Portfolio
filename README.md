@@ -140,7 +140,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/66726731/233141211-a7cb9c11-16a2-4308-829f-0e481d24597c.png)
 
-![Untitled 1](https://user-images.githubusercontent.com/66726731/233141282-062330c2-5ed3-4af8-8b8f-f1e57ecf3469.png)
+![코딩테스트](https://github.com/hannachoi24/Portfolio/assets/66726731/474d3e6f-b85e-4a6c-8ed2-af0dcff18703)
 
 ![SQLD 자격증](https://github.com/hannachoi24/Portfolio/assets/66726731/59d080ba-d845-4b66-84ab-c1836c7ef93b)
 
