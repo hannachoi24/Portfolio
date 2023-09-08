@@ -146,5 +146,4 @@
 
 ![ISTQB 자격증](https://github.com/hannachoi24/Portfolio/assets/66726731/3c5aa10e-aa35-405a-9951-0e48884855f3)
 
-![MOS](https://user-images.githubusercontent.com/66726731/233157456-71a180e5-2102-431d-bf3a-f84d391617f4.jpg)
-
+![MOS자격증](https://github.com/hannachoi24/Portfolio/assets/66726731/6279d2bc-52ca-4be9-8928-f138fb565a38)
