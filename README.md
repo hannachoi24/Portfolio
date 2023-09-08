@@ -134,6 +134,7 @@
 - 교내 웹/앱 서비스 개발 경진대회 장려상
 - 교내 코딩 경진대회 장려상
 - SQLD 자격증
+- ISTQB 자격증
 - MOS Excel 2010 Expert
 - MOS PowerPoint 2010
 
@@ -142,6 +143,8 @@
 ![Untitled 1](https://user-images.githubusercontent.com/66726731/233141282-062330c2-5ed3-4af8-8b8f-f1e57ecf3469.png)
 
 ![SQLD 자격증](https://github.com/hannachoi24/Portfolio/assets/66726731/59d080ba-d845-4b66-84ab-c1836c7ef93b)
+
+![ISTQB 자격증](https://github.com/hannachoi24/Portfolio/assets/66726731/3c5aa10e-aa35-405a-9951-0e48884855f3)
 
 ![MOS](https://user-images.githubusercontent.com/66726731/233157456-71a180e5-2102-431d-bf3a-f84d391617f4.jpg)
 
